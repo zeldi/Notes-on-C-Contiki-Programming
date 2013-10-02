@@ -1,2 +1,2 @@
-Callback-timer-Contiki
-======================
+Notes on Contiki Programming
+===========================
